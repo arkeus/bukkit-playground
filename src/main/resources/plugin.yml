@@ -1,0 +1,3 @@
+name: BukkitPlayground
+main: io.arkeus.bpg.BukkitPlayground
+version: 0.1.0
